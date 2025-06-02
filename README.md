@@ -1,7 +1,7 @@
 ![image info](mw2r-git-assets/mw2r_logo.png)
 # MW2: Reimagined Zombies
 
-Link to the original repository on [Gitlab]([https://gitlab.com/mw2-r-public/mw2r-iw4x-zombies-mod-public/-/releases](https://gitlab.com/mw2-r-public/mw2r-iw4x-zombies-mod-public).
+Link to the original repository on [Gitlab](https://gitlab.com/mw2-r-public/mw2r-iw4x-zombies-mod-public).
 
 Download the public version of our zombie mode for AlterWare IW4x [here](https://gitlab.com/mw2-r-public/mw2r-iw4x-zombies-mod-public/-/releases).
 
